@@ -1,0 +1,18 @@
+#header {
+    background-color: rgb(56, 174, 56);
+    text-align: center;
+    border-radius: 1em;
+}
+
+#container {
+    display: flex;
+}
+
+#cuadro1 {
+    background-color: yellow;
+    display: grid;
+    height: 4em;
+    width: 12em;
+    border-radius: 1em;
+    padding: 1em;
+}
